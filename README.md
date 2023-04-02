@@ -5,7 +5,7 @@
 ##  🕵Sobre
 Esse é um projeto Web full stack desenvolvido no bootcamp da Labenu, ele está divido em duas partes (Labeddit- BackEnd e Labeddit-frontEnd). 
 
-
+EM BREVE
 
 ---
 
@@ -31,20 +31,20 @@ Esse é um projeto Web full stack desenvolvido no bootcamp da Labenu, ele está 
 
 ## 💡Concepção do Projeto
 
-
+EM BREVE
 
 ---
 
 ## 🔗Bibliotecas utilizadas
 
-
+EM BREVE
 
 ---
 
 ## 🛰Rodando o Projeto
 
 Para Rodar o projeto, siga as seguintes etapas :
-
+EM BREVE
 
 ---
 
