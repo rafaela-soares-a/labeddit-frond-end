@@ -1,7 +1,7 @@
 import { useContext, useEffect, useState } from "react";
 import { GlobalContext } from "../../contexts/globalcontext";
 
-export default function CommentPage() {
+export function CommentPage() {
     const { context, createPost, post, createComment, comment, setComment} = useContext(GlobalContext)
 
     const [content, setContent] = useState("")
@@ -86,4 +86,6 @@ export default function CommentPage() {
           </>
         )
       }
+
+      export default CommentPage;
       

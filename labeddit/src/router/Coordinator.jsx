@@ -1,19 +1,19 @@
-export const goCommentsPage = (navigate, postId) => {
+export const goToCommentPage = (navigate, postId) => {
     navigate(`/post/${postId}/comment`);
 }
 
-export const goSignupPage = (navigate) => {
+export const goToSignupPage = (navigate) => {
     navigate("/signup")
 }
 
-export const goLoginPage = (navigate) => {
+export const goToLoginPage = (navigate) => {
     navigate("/login")
 }
 
-export const goPostsPage = (navigate) => {
+export const goTopostPage = (navigate) => {
     navigate("/post")
 }
 
-export const goHomePage = (navigate) => {
+export const goToHomePage = (navigate) => {
     navigate("/")
 }
