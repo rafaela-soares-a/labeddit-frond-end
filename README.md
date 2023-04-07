@@ -12,7 +12,7 @@ EM BREVE
 
 ## 🔗 Links de acesso:
 
-- Deploy Vercel: em breve;
+- Deploy Vercel: https://labeddit-criado-por-rafaela-soares.surge.sh/
 - Labeddit-FrontEnd: https://github.com/rafaela-soares-a/labeddit-back-end.git
 
 ---
